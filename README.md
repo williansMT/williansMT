@@ -20,6 +20,10 @@ Olá! Sou um jovem começando minha jornada no mundo da tecnologia. Atualmente, 
 ### Linguagens utilizadas
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williansMT&layout=compact&theme=buefy&hide_border=true" /></a> |
 
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=williansMT&repo=site_vezogames)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contatos
 <a href="https://www.linkedin.com/in/willians-martins-329350329/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
 
